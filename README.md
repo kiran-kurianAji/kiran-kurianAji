@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiran-kurianAji
-- 👀 I’m interested in web development
+- 👀 I’m interested in Generative Ai
 - 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kirankurianaji22@gmail.com
